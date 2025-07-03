@@ -51,4 +51,4 @@ jobs:
           app-name: 'apiwebapp'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F23EB6DD7A9F4B448E514648E407D701 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F1E2253EA5C2472BACDCB7FBF14758C0 }}
