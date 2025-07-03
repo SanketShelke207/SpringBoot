@@ -1,0 +1,7 @@
+com.yash.MovieBooking
+com.yash.MovieBooking.conffig
+com.yash.MovieBooking.controller
+com.yash.MovieBooking.domain
+com.yash.MovieBooking.dto
+com.yash.MovieBooking.repository
+com.yash.MovieBooking.service
