@@ -51,4 +51,4 @@ jobs:
           app-name: 'MovieProject'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E56F85E5EE784526B20A77E76C328D5E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF68EC281E844A3B8B1F2E9DC8774A7C }}
